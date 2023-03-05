@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sports-iitgn/static/css/main.922bb401.css",
-    "main.js": "/sports-iitgn/static/js/main.5f03731b.js",
+    "main.js": "/sports-iitgn/static/js/main.1c94dcb7.js",
     "static/media/IIT Gandhinagar.mp4": "/sports-iitgn/static/media/IIT Gandhinagar.a27ac2b723054c6731f8.mp4",
     "static/media/Hallabol-6.jpg": "/sports-iitgn/static/media/Hallabol-6.2016e0080f0961e4ba92.jpg",
     "static/media/Weightlifting Workshop.jpg": "/sports-iitgn/static/media/Weightlifting Workshop.07236d2eb99304912b0c.jpg",
@@ -83,10 +83,10 @@
     "static/media/portfolio-link.jpg": "/sports-iitgn/static/media/portfolio-link.99b23d92b866ff18ea1a.jpg",
     "index.html": "/sports-iitgn/index.html",
     "main.922bb401.css.map": "/sports-iitgn/static/css/main.922bb401.css.map",
-    "main.5f03731b.js.map": "/sports-iitgn/static/js/main.5f03731b.js.map"
+    "main.1c94dcb7.js.map": "/sports-iitgn/static/js/main.1c94dcb7.js.map"
   },
   "entrypoints": [
     "static/css/main.922bb401.css",
-    "static/js/main.5f03731b.js"
+    "static/js/main.1c94dcb7.js"
   ]
 }
