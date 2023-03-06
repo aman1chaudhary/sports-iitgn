@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sports-iitgn/static/css/main.922bb401.css",
-    "main.js": "/sports-iitgn/static/js/main.1c94dcb7.js",
+    "main.css": "/sports-iitgn/static/css/main.a3299f77.css",
+    "main.js": "/sports-iitgn/static/js/main.214b0334.js",
     "static/media/IIT Gandhinagar.mp4": "/sports-iitgn/static/media/IIT Gandhinagar.a27ac2b723054c6731f8.mp4",
     "static/media/Hallabol-6.jpg": "/sports-iitgn/static/media/Hallabol-6.2016e0080f0961e4ba92.jpg",
     "static/media/Weightlifting Workshop.jpg": "/sports-iitgn/static/media/Weightlifting Workshop.07236d2eb99304912b0c.jpg",
@@ -23,6 +23,7 @@
     "static/media/Sports Complex-2.jpg": "/sports-iitgn/static/media/Sports Complex-2.653e95991fd3b8945330.jpg",
     "static/media/banner-1.jpg": "/sports-iitgn/static/media/banner-1.9305f4f7f15f80cda3f8.jpg",
     "static/media/Squash-1.jpg": "/sports-iitgn/static/media/Squash-1.43d61a51a611584c5afb.jpg",
+    "static/media/logo-iitgn.png": "/sports-iitgn/static/media/logo-iitgn.a0fff9bafa0d43cb1612.png",
     "static/media/Athe-league-1.jpg": "/sports-iitgn/static/media/Athe-league-1.a8a6307ba1353cf030e2.jpg",
     "static/media/Aquatics.jpg": "/sports-iitgn/static/media/Aquatics.52a2251c7f670c35ae80.jpg",
     "static/media/Cricket League-2.jpg": "/sports-iitgn/static/media/Cricket League-2.608510e661a0541c00cd.jpg",
@@ -82,11 +83,11 @@
     "static/media/Vedangraj Vala.jpg": "/sports-iitgn/static/media/Vedangraj Vala.134be42de7a0ab8949c4.jpg",
     "static/media/portfolio-link.jpg": "/sports-iitgn/static/media/portfolio-link.99b23d92b866ff18ea1a.jpg",
     "index.html": "/sports-iitgn/index.html",
-    "main.922bb401.css.map": "/sports-iitgn/static/css/main.922bb401.css.map",
-    "main.1c94dcb7.js.map": "/sports-iitgn/static/js/main.1c94dcb7.js.map"
+    "main.a3299f77.css.map": "/sports-iitgn/static/css/main.a3299f77.css.map",
+    "main.214b0334.js.map": "/sports-iitgn/static/js/main.214b0334.js.map"
   },
   "entrypoints": [
-    "static/css/main.922bb401.css",
-    "static/js/main.1c94dcb7.js"
+    "static/css/main.a3299f77.css",
+    "static/js/main.214b0334.js"
   ]
 }
