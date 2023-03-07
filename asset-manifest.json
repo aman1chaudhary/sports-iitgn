@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sports-iitgn/static/css/main.af28240c.css",
-    "main.js": "/sports-iitgn/static/js/main.37929ba2.js",
+    "main.css": "/sports-iitgn/static/css/main.efa20345.css",
+    "main.js": "/sports-iitgn/static/js/main.2cb7df93.js",
     "static/media/IIT Gandhinagar.mp4": "/sports-iitgn/static/media/IIT Gandhinagar.a27ac2b723054c6731f8.mp4",
     "static/media/Weightlifting Workshop.jpg": "/sports-iitgn/static/media/Weightlifting Workshop.07236d2eb99304912b0c.jpg",
     "static/media/Climbing Wall-2.jpg": "/sports-iitgn/static/media/Climbing Wall-2.6fb8acf2144de25cf39e.jpg",
@@ -14,16 +14,17 @@
     "static/media/Table Tennis Arena-2.jpg": "/sports-iitgn/static/media/Table Tennis Arena-2.833f4992e556547e13a6.jpg",
     "static/media/Table Tennis Arena-1.jpg": "/sports-iitgn/static/media/Table Tennis Arena-1.bb2e70d7412ec0226d4e.jpg",
     "static/media/banner-3.jpg": "/sports-iitgn/static/media/banner-3.533762a42bcee1fccacc.jpg",
+    "static/media/Basketball League-2.jpg": "/sports-iitgn/static/media/Basketball League-2.e2302ce05f2645472e8b.jpg",
     "static/media/Sports Complex-2.jpg": "/sports-iitgn/static/media/Sports Complex-2.653e95991fd3b8945330.jpg",
     "static/media/banner-1.jpg": "/sports-iitgn/static/media/banner-1.9305f4f7f15f80cda3f8.jpg",
     "static/media/Squash-1.jpg": "/sports-iitgn/static/media/Squash-1.43d61a51a611584c5afb.jpg",
+    "static/media/Basketball League-1.jpg": "/sports-iitgn/static/media/Basketball League-1.7ed9ee0296059e89f383.jpg",
     "static/media/Aquatic Arena-3.jpg": "/sports-iitgn/static/media/Aquatic Arena-3.14f0a1d5a477700d4eac.jpg",
     "static/media/logo-iitgn.png": "/sports-iitgn/static/media/logo-iitgn.a0fff9bafa0d43cb1612.png",
     "static/media/Football Ground-3.jpg": "/sports-iitgn/static/media/Football Ground-3.47d0dc1db6fca55fecb0.jpg",
     "static/media/Athe-league-1.jpg": "/sports-iitgn/static/media/Athe-league-1.a8a6307ba1353cf030e2.jpg",
     "static/media/Climbing Wall-3.jpg": "/sports-iitgn/static/media/Climbing Wall-3.75b0c6c8cfe66407b096.jpg",
     "static/media/Hallabol-7.jpg": "/sports-iitgn/static/media/Hallabol-7.846b301425edef4c7e61.jpg",
-    "static/media/Aquatics.jpg": "/sports-iitgn/static/media/Aquatics.52a2251c7f670c35ae80.jpg",
     "static/media/Cricket League-2.jpg": "/sports-iitgn/static/media/Cricket League-2.608510e661a0541c00cd.jpg",
     "static/media/Cricket Ground-1.jpg": "/sports-iitgn/static/media/Cricket Ground-1.85f4e847f9099edb6cd2.jpg",
     "static/media/National Games-3.jpg": "/sports-iitgn/static/media/National Games-3.15121338293a0b11342f.jpg",
@@ -34,15 +35,15 @@
     "static/media/Gymnasium-1.jpg": "/sports-iitgn/static/media/Gymnasium-1.e9b3617b947b9c9b1886.jpg",
     "static/media/Inter IIT Meet-2.jpg": "/sports-iitgn/static/media/Inter IIT Meet-2.96b9324d71e7d07120bf.jpg",
     "static/media/Hallabol-5.jpg": "/sports-iitgn/static/media/Hallabol-5.d9013f2a98d215a057ef.jpg",
+    "static/media/Aquatics.jpg": "/sports-iitgn/static/media/Aquatics.48fcc226021165b1f0ac.jpg",
     "static/media/Athletics Arena-2.jpg": "/sports-iitgn/static/media/Athletics Arena-2.1474646efde009dabc92.jpg",
     "static/media/Aquatic Arena-2.jpg": "/sports-iitgn/static/media/Aquatic Arena-2.ba3c278e59013f30a655.jpg",
     "static/media/Basketball League.jpg": "/sports-iitgn/static/media/Basketball League.8ae936cf4eb164933b9b.jpg",
-    "static/media/Basketball.jpg": "/sports-iitgn/static/media/Basketball.8ae936cf4eb164933b9b.jpg",
     "static/media/Hallabol-1.jpg": "/sports-iitgn/static/media/Hallabol-1.bbdc56cd3eded5c1c093.jpg",
     "static/media/National Games-4.jpg": "/sports-iitgn/static/media/National Games-4.4fe474783ea67d0b05f8.jpg",
     "static/media/Hallabol-3.jpg": "/sports-iitgn/static/media/Hallabol-3.bb130f0f8ebbbd20aaea.jpg",
     "static/media/National Games-2.jpg": "/sports-iitgn/static/media/National Games-2.f4bd9727cc30c196e72e.jpg",
-    "static/media/Basketball League-1.jpg": "/sports-iitgn/static/media/Basketball League-1.61dbbcd35596216087d1.jpg",
+    "static/media/Basketball League-3.jpg": "/sports-iitgn/static/media/Basketball League-3.61dbbcd35596216087d1.jpg",
     "static/media/Athletics.jpg": "/sports-iitgn/static/media/Athletics.ec8825dd6b0dd515c0e9.jpg",
     "static/media/Inter IIT Meet-3.jpg": "/sports-iitgn/static/media/Inter IIT Meet-3.5dbee27af2cc84863445.jpg",
     "static/media/Hallabol-6.jpg": "/sports-iitgn/static/media/Hallabol-6.a1de1bc292fdc304ad49.jpg",
@@ -57,6 +58,7 @@
     "static/media/Volleyball League-1.jpg": "/sports-iitgn/static/media/Volleyball League-1.e07dbb866844076e72ab.jpg",
     "static/media/Volleyball.jpg": "/sports-iitgn/static/media/Volleyball.e07dbb866844076e72ab.jpg",
     "static/media/Gymnasium-3.jpg": "/sports-iitgn/static/media/Gymnasium-3.d056650525dbcd4dfe73.jpg",
+    "static/media/Basketball.jpg": "/sports-iitgn/static/media/Basketball.0696c1cff7f9e6818add.jpg",
     "static/media/Basketball Arena-1.jpg": "/sports-iitgn/static/media/Basketball Arena-1.85e7fc7db24a6e30f251.jpg",
     "static/media/Basketball Arena-2.jpg": "/sports-iitgn/static/media/Basketball Arena-2.85e7fc7db24a6e30f251.jpg",
     "static/media/Climbing Wall-1.jpg": "/sports-iitgn/static/media/Climbing Wall-1.eab4706706ad121bdc90.jpg",
@@ -93,11 +95,11 @@
     "static/media/Vedangraj Vala.jpg": "/sports-iitgn/static/media/Vedangraj Vala.134be42de7a0ab8949c4.jpg",
     "static/media/portfolio-link.jpg": "/sports-iitgn/static/media/portfolio-link.99b23d92b866ff18ea1a.jpg",
     "index.html": "/sports-iitgn/index.html",
-    "main.af28240c.css.map": "/sports-iitgn/static/css/main.af28240c.css.map",
-    "main.37929ba2.js.map": "/sports-iitgn/static/js/main.37929ba2.js.map"
+    "main.efa20345.css.map": "/sports-iitgn/static/css/main.efa20345.css.map",
+    "main.2cb7df93.js.map": "/sports-iitgn/static/js/main.2cb7df93.js.map"
   },
   "entrypoints": [
-    "static/css/main.af28240c.css",
-    "static/js/main.37929ba2.js"
+    "static/css/main.efa20345.css",
+    "static/js/main.2cb7df93.js"
   ]
 }
