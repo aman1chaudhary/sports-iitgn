@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sports-iitgn/static/css/main.e5b2a1c1.css",
-    "main.js": "/sports-iitgn/static/js/main.f445eead.js",
+    "main.css": "/sports-iitgn/static/css/main.cb6f37b1.css",
+    "main.js": "/sports-iitgn/static/js/main.9950cd33.js",
     "static/media/IIT Gandhinagar.mp4": "/sports-iitgn/static/media/IIT Gandhinagar.a27ac2b723054c6731f8.mp4",
     "static/media/Weightlifting Workshop.jpg": "/sports-iitgn/static/media/Weightlifting Workshop.07236d2eb99304912b0c.jpg",
     "static/media/Wall Climbing-3.jpg": "/sports-iitgn/static/media/Wall Climbing-3.6fb8acf2144de25cf39e.jpg",
@@ -105,11 +105,11 @@
     "static/media/ONGC.jpg": "/sports-iitgn/static/media/ONGC.c373087340671daef9dc.jpg",
     "static/media/tea-post.jpg": "/sports-iitgn/static/media/tea-post.f79b307ff64bbced71a8.jpg",
     "index.html": "/sports-iitgn/index.html",
-    "main.e5b2a1c1.css.map": "/sports-iitgn/static/css/main.e5b2a1c1.css.map",
-    "main.f445eead.js.map": "/sports-iitgn/static/js/main.f445eead.js.map"
+    "main.cb6f37b1.css.map": "/sports-iitgn/static/css/main.cb6f37b1.css.map",
+    "main.9950cd33.js.map": "/sports-iitgn/static/js/main.9950cd33.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b2a1c1.css",
-    "static/js/main.f445eead.js"
+    "static/css/main.cb6f37b1.css",
+    "static/js/main.9950cd33.js"
   ]
 }
