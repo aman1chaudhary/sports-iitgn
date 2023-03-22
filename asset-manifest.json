@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sports-iitgn/static/css/main.05b0d876.css",
-    "main.js": "/sports-iitgn/static/js/main.4a699b19.js",
+    "main.js": "/sports-iitgn/static/js/main.cf43d0d4.js",
     "static/media/IIT Gandhinagar.mp4": "/sports-iitgn/static/media/IIT Gandhinagar.a27ac2b723054c6731f8.mp4",
     "static/media/Weightlifting Workshop.jpg": "/sports-iitgn/static/media/Weightlifting Workshop.07236d2eb99304912b0c.jpg",
     "static/media/Wall Climbing-3.jpg": "/sports-iitgn/static/media/Wall Climbing-3.6fb8acf2144de25cf39e.jpg",
@@ -30,7 +30,6 @@
     "static/media/Aquatics-1.jpg": "/sports-iitgn/static/media/Aquatics-1.48fcc226021165b1f0ac.jpg",
     "static/media/Apollo Hospitals Annual Sports Meet-1.jpg": "/sports-iitgn/static/media/Apollo Hospitals Annual Sports Meet-1.b1da962da75b672b0eff.jpg",
     "static/media/Athletics-3.jpg": "/sports-iitgn/static/media/Athletics-3.1474646efde009dabc92.jpg",
-    "static/media/Athletics.jpg": "/sports-iitgn/static/media/Athletics.1474646efde009dabc92.jpg",
     "static/media/Aquatics-3.jpg": "/sports-iitgn/static/media/Aquatics-3.ba3c278e59013f30a655.jpg",
     "static/media/Basketball League.jpg": "/sports-iitgn/static/media/Basketball League.8ae936cf4eb164933b9b.jpg",
     "static/media/National Games-4.jpg": "/sports-iitgn/static/media/National Games-4.4fe474783ea67d0b05f8.jpg",
@@ -68,6 +67,8 @@
     "static/media/Junior Rugby Nationals-2.jpg": "/sports-iitgn/static/media/Junior Rugby Nationals-2.ab0220e0711cb42080e8.jpg",
     "static/media/Junior Rugby Nationals-3.jpg": "/sports-iitgn/static/media/Junior Rugby Nationals-3.23f4ef8edb50896481eb.jpg",
     "static/media/Junior Rugby Nationals-1.jpg": "/sports-iitgn/static/media/Junior Rugby Nationals-1.5ec89b7d756e1254f422.jpg",
+    "static/media/Tata Consulting Engineers Limited Sports Meet.jpg": "/sports-iitgn/static/media/Tata Consulting Engineers Limited Sports Meet.3b3abb286896bbc2a244.jpg",
+    "static/media/Maruti Suzuki Sports Meet.jpg": "/sports-iitgn/static/media/Maruti Suzuki Sports Meet.556601cf5d4e4f705495.jpg",
     "static/media/National Squash Tournament-2.jpg": "/sports-iitgn/static/media/National Squash Tournament-2.1302e4aa756285b4082c.jpg",
     "static/media/National Games-5.jpg": "/sports-iitgn/static/media/National Games-5.747e1247c151462b5fc0.jpg",
     "static/media/Cricket League-1.jpg": "/sports-iitgn/static/media/Cricket League-1.04d9c102483dc046da8a.jpg",
@@ -103,10 +104,10 @@
     "static/media/tea-post.jpg": "/sports-iitgn/static/media/tea-post.f79b307ff64bbced71a8.jpg",
     "index.html": "/sports-iitgn/index.html",
     "main.05b0d876.css.map": "/sports-iitgn/static/css/main.05b0d876.css.map",
-    "main.4a699b19.js.map": "/sports-iitgn/static/js/main.4a699b19.js.map"
+    "main.cf43d0d4.js.map": "/sports-iitgn/static/js/main.cf43d0d4.js.map"
   },
   "entrypoints": [
     "static/css/main.05b0d876.css",
-    "static/js/main.4a699b19.js"
+    "static/js/main.cf43d0d4.js"
   ]
 }
